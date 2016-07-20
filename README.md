@@ -1,3 +1,3 @@
 # hello-world
 Entering GitHub
-I want to use GitHub to develop mobile apps
+All this is somewhat confusing
